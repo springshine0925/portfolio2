@@ -1,0 +1,13 @@
+.home {
+  overflow-x: hidden;
+}
+.skills {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.skill {
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+}

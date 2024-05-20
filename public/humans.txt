@@ -1,0 +1,39 @@
+__  __  __
+\ \ \ \ \/
+ \ \/\ \
+  \/  \/
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+DESIGNER | DESIGNER
+
+Mars WIng
+Hand crafted design & web development
+
+Design tools:
+Figma
+Photoshop
+Blender
+
+twitter.com/marsheinrich
+github.com/marsheinrich
+
+_______________________________________________________________________________
+
+TECHNOLOGY | TECHNOLOGY
+
+React
+Remix
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS | 
+
+Gotham
+IPA Gothic Regular
+Hiragino Kaku Gothic W8

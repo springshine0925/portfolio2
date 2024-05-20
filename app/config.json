@@ -1,0 +1,34 @@
+{
+  "name": "Mars Wing",
+  "role": "Senior",
+  "disciplines": ["Software Engineer", "Security Engineer", "Quality Assurance"],
+  "url": "https://marsheinrich.com",
+  "twitter": "@marsheinrich",
+  "figma": "@marsheinrich",
+  "github": "marsheinrich",
+  "repo": "https://github.com/marsheinrich/portfolio",
+  "skills": [
+    "next.png",
+    "java-colored.svg",
+    "spring.png",
+    "go.png",
+    "ts.png",
+    "node.png",
+    "python-colored.svg",
+    "php.jpg",
+    "firebase-colored.svg",
+    "postgresql.png",
+    "mongodb.png"
+  ],
+  "major": [
+    "stripe.png",
+    "graphql.png",
+    "mocha.png",
+    "jest.png",
+    "pytest.jpg",
+    "network.png",
+    "cyber.jpg"
+  ],
+
+  "ascii": "__  __  __\n\u005C \u005C \u005C \u005C \u005C\u2215\n \u005C \u005C\u2215\u005C \u005C\n  \u005C\u2215  \u005C\u2215\n"
+}
